@@ -1,6 +1,6 @@
 cask "sofa-remote" do
-  version "0.1.0-beta.11"
-  sha256 "68e1a417f4111042759c47643cb9aa00f7ff86d49d7bb0bc28e87c30a4d697cb"
+  version "0.1.0-beta.13"
+  sha256 "a706d3d8677329e6ff704875408cab44b41207d9e974c61ace5bda0a82113a3c"
 
   url "https://github.com/allamaprabhuani/sofa-remote/releases/download/preview-v#{version}/Sofa-Remote-preview.dmg"
   name "Sofa Remote"
